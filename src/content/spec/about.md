@@ -1,9 +1,50 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 🛸 欢迎来到我的精神角落
 
-::github{repo="saicaca/fuwari"}
+你好！我是 **Raythalis**。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+这里是我在数字世界的一片自留地。热衷于探索技术与生活的边界。
+
+---
+
+### 🔍 我是谁？
+
+- **🎮 玩家：** 资深 Steam 玩家，热衷于`RPG`。
+- **💻 极客：** 喜欢折腾各种新鲜的工具，`All in One NAS`，以及各种自动化工作流。
+- **🐱 猫奴：** 有一只超级胆小的米花。
+
+### 🛠️ 技术栈 / 工具箱
+
+| 类别 | 常用工具                    |
+| :--- |:------------------------|
+| **笔记** | Obsidian + Affine       |
+| **开发** | Vue / Node.js / Python  |
+| **设计** | DaVinci / Pr            |
+| **终端** | PowerShell / Oh My Posh |
+
+---
+
+### 我的项目
+::github{repo="raythalis/weibo-crawler"}
+::github{repo="raythalis/InstagramTool"}
+::github{repo="raythalis/WemeTool"}
+
+---
+
+### 📜 关于本站
+
+这个博客是基于 **[Astro](https://astro.build/)** 框架和 **[Fuwari](https://github.com/saicaca/fuwari)** 主题构建的。
+
+之所以选择这种“禅意”风格，是希望在信息爆炸的时代，能有一个纯净的空间来沉淀思考。我主要会在这里分享：
+1. **技术笔记：** 开发踩坑记录与教程。
+2. **生活随笔：** 对电影、游戏或日常的碎碎念。
+3. **知识库：** 长期更新的文档式内容。
+
+---
+
+### 📬 找到我
+
+你可以通过侧边栏的社交链接找到我，或者：
+
+- **Email:** lilcandle@example.com
+
+> "Stay hungry, stay foolish." — 愿我们都能保持好奇心。

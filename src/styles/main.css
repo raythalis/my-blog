@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700&display=swap');
 @tailwind components;
 
 @layer components {
@@ -149,4 +150,11 @@
         color: var(--codeblock-bg);
     }
   }
+}
+:root {
+    /* 主体文字：优先调用苹果苹方， fallback 到微软雅黑 */
+    --global-font-body: "-apple-system", "Noto Sans SC", sans-serif, "BlinkMacSystemFont", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial;
+
+    /* 标题文字：如果你想要更有设计感，可以加入苹果的衬线体 */
+    --global-font-title: "-apple-system", "Noto Sans SC", sans-serif, "BlinkMacSystemFont", "PingFang SC", "STSong", "Microsoft YaHei", serif;
 }
